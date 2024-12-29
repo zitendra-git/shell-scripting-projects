@@ -2,6 +2,7 @@
 
 # Monitoring and Alerting Script
 # This script monitors CPU, memory, disk usage, and network connectivity and sends alerts if thresholds are exceeded.
+# Author: Jitendra kumar
 
 # Configuration
 CPU_THRESHOLD=80          # CPU usage threshold in percentage
